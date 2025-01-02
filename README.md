@@ -9,4 +9,6 @@ Project includes:
 * Figure and caption elements
 * Fieldset and legend elements
 
-View on [CodePen](https://codepen.io/Mordechai-Pal/pen/EaYwMom)
+View on [CodePen][CodePen]
+
+[CodePen]: https://codepen.io/Mordechai-Pal/pen/EaYwMom
