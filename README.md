@@ -1,7 +1,7 @@
 # CatPhotoApp
 A practice project completed while learning HTML
 
-Project from [freeCodeCamp](https://www.freecodecamp.org/) learning curriculum.
+Project from [freeCodeCamp](https://www.freecodecamp.org/) in the [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) learning curriculum.
 
 Project includes:
 * HTML Boilerplate
