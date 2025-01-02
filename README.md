@@ -1,4 +1,4 @@
-# CatPhotoApp
+# Cat Photo App
 A practice project completed while learning HTML
 
 Project from [freeCodeCamp][Learning Site] in the [Responsive Web Design][Curriculum] learning curriculum.
